@@ -1,4 +1,4 @@
-JustWatch Streaming Data Scraper and Analysis Project
+# **JustWatch Streaming Data Scraper and Analysis Project**
 
 JustWatch is a widely used platform that aggregates content availability across various streaming services such as Netflix, Amazon Prime Video, Hulu, and others. The objective of this project is to develop a web scraping solution to extract movie and TV show data from JustWatch using Python-based tools.
 
